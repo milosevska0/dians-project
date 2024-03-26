@@ -1,20 +1,25 @@
-# Проект по предметот Дизајн и архитектура на софтвер
+# Project for the Course: Design and Architecture of Software
 
-
-**Линк до публикувана апликација:**<br  />
+**Link to published application:**<br />
 - https://homework4-vinodventura-app-4ff3f600feab.herokuapp.com/home
 
-**Линк кон видео за функционалности на апликацијата(доколку има проблем со публикуваната верзија):** <br  />
+**Link to a video about the functionality of the application (if there is a problem with the published version):** <br />
 - https://youtu.be/OW64wS6i5AI
 
-**Членови на тимот:**<br />
-- Петар Петрески (211015)<br />
-- Фросина Милошевска (211108)<br />
-- Благица Јанческа (211123)<br />
-- Сања Крстеска (211046)<br />
-- Никола Талевски (211009)
+**Team Members:**<br />
+- Petar Petreski (211015)<br />
+- Frosina Miloshevska (211108)<br />
+- Blagica Jancheska (211123)<br />
+- Sanja Krsteska (211046)<br />
+- Nikola Talevski (211009)
 
+**Mentors:**<br />
+- Prof. Dr. Ljupcho Antovski<br />
+- Prof. Dr. Petre Lameski<br />
 
-**Ментори:**<br />
-- проф. д-р Љупчо Антовски<br />
-- проф. д-р Петре Ламески<br />
+**Features included in the project:**<br />
+- Full-stack Application <br />
+- MVC <br />
+- Postgres Database <br />
+- OpenStreetMap API <br />
+- Pipe and Filter  <br />
