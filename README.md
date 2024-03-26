@@ -18,8 +18,7 @@
 - Prof. Dr. Petre Lameski<br />
 
 **Features included in the project:**<br />
-- Full-stack Application <br />
-- MVC <br />
+- MVC Architecture <br />
 - Postgres Database <br />
 - OpenStreetMap API <br />
 - Pipe and Filter  <br />
